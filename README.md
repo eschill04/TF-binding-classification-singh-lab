@@ -7,8 +7,10 @@ To use, download and unzip data from link above, and move desired TF folders to 
 
 ## 2. Install Requirements ##
 
-Use 
+In terminal, call 
+    
     pip3 install -r requirements.txt 
+    
 to install dependencies.
 
 ## 3. Set parameters ##
@@ -22,12 +24,14 @@ Changable parameters:
 * Batch size
 * Epochs
 
-Modify changable parameters in top section of classification_model.py
+You can modify the changable parameters in top section of classification_model.py!
 
 ## 3. Run! ##
-To run, type
+To run, call
+
     python3 classification_model.py
-in command line. Your loss curves will be uploaded to the ./result_graphs, and your model will be uploaded to ./models.
+    
+in the command line. Your loss curves will be uploaded to the ./result_graphs, and your model will be uploaded to ./models.
 
 ## Example Results ##
 
