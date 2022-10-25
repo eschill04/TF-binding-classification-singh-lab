@@ -32,6 +32,7 @@ in command line. Your loss curves will be uploaded to the ./result_graphs, and y
 ## Example Results ##
 
 For parameters: 
+    
     TF = "CTCF"
 
     train_data_path = "./data/CTCF_K562_CTCF_-SC-15914-_Stanford/train.fa"
