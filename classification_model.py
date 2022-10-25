@@ -270,5 +270,5 @@ torch.save({'model_state_dict': model.state_dict(),
 print("Model saved to", './models/model'+ TF +'.pt')
 
 #SAVE GRAPH
-plt.savefig("./result_graphs/sample_loss_curve_"+TF)
-print("Loss graph saved to", './result_graphs/sample_loss_curve_'+ TF +'.png')
+plt.savefig("./result_graphs/loss_curve_"+TF)
+print("Loss graph saved to", './result_graphs/loss_curve_'+ TF +'.png')
