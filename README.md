@@ -1,6 +1,6 @@
 # Transcription Factor Binding: Classification Model
 
-Created with [Singh Lab @ Brown](https://rsinghlab.org/) (advised by Dr. Ritambhara Singh). Data dourced from [DeepMotif](https://arxiv.org/abs/1608.03644).
+Created with [Singh Lab @ Brown](https://rsinghlab.org/) (advised by Dr. Ritambhara Singh). Data sourced from [DeepMotif](https://arxiv.org/abs/1608.03644).
 
 ## 1. Download Data ##
 
