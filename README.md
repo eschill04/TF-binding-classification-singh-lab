@@ -18,7 +18,7 @@ to install dependencies.
 
 ## 3. Set parameters ##
 
-Changable parameters:
+Available parameters:
 * Transcription factor
     * String that sets the savable model and graph labels
 * Training/testing dataset paths
@@ -27,7 +27,7 @@ Changable parameters:
 * Batch size
 * Epochs
 
-You can modify the changable parameters in top section of classification_model.py!
+You can modify the changable parameters in top section of classification_model.py (lines 9-22).
 
 ## 3. Run! ##
 To run, call
