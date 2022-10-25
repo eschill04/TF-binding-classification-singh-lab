@@ -43,4 +43,5 @@ For parameters:
     epochs = 100
     
 We get testing accuracy of 94.1%, and the following training/validation curve:
+
     ![Loss Curves: CTCF](/result_graphs/sample_loss_curve_CTCF.png)
