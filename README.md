@@ -27,7 +27,7 @@ Available parameters:
 * Batch size
 * Epochs
 
-You can modify the changable parameters in top section of classification_model.py (lines 9-22).
+You can modify these parameters in the top section of classification_model.py (lines 9-22).
 
 ## 3. Run! ##
 To run, call
