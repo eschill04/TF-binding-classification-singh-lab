@@ -5,6 +5,7 @@ Created with [Singh Lab @ Brown](https://rsinghlab.org/) (advised by Dr. Ritambh
 ## 1. Download Data ##
 
 All training/testing data can be downloaded from the [DeepMotif Repo](https://github.com/QData/DeepMotif). 
+
 To use, download and unzip data from link above. Then create ./data in the main project directory, and move desired TF folders into it. 
 
 ## 2. Install Requirements ##
