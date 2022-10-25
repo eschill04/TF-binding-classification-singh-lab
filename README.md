@@ -1,8 +1,10 @@
 # Transcription Factor Binding: Classification Model
 
+Created with [Singh Lab @ Brown](https://rsinghlab.org/) (advised by Dr. Ritambhara Singh). Data dourced from [DeepMotif](https://arxiv.org/abs/1608.03644).
+
 ## 1. Download Data ##
 
-All training/testing data is sourced from [DeepMotif](https://github.com/QData/DeepMotif). 
+All training/testing data can be downloaded from the [DeepMotif Repo](https://github.com/QData/DeepMotif). 
 To use, download and unzip data from link above, and move desired TF folders to ./data. 
 
 ## 2. Install Requirements ##
