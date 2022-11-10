@@ -19,7 +19,7 @@ to install dependencies.
 ## 3. Set parameters ##
 
 Available parameters:
-* Transcription factor (TF)
+* Transcription factor
     * String that sets the savable model and graph labels
 * Training/testing dataset paths
 * Training/validation dataset split ratio
